@@ -10,7 +10,7 @@
     Fun RPG game on browser.
     <br/>
     <br/>
-    <a href="https://gorillacoffee-mb.netlify.app"><strong>View Demo.</strong></a>
+    <a href="https://monster-killer-mb.netlify.app"><strong>View Demo.</strong></a>
     <br/>
     <br/>
   </p>
