@@ -27,5 +27,5 @@ This project was from JS Course by Academind.
 
 ## Authors
 
-* **Academind** - *Developer* - [RaddyTheBrand](https://github.com/academind) - *Built the project* - [Course](https://www.udemy.com/course/javascript-the-complete-guide-2020-beginner-advanced/?couponCode=KEEPLEARNING) - [Website](https://academind.com)
+* **Academind** - *Developer* - [Academind](https://github.com/academind) - *Built the project* - [Course](https://www.udemy.com/course/javascript-the-complete-guide-2020-beginner-advanced/?couponCode=KEEPLEARNING) - [Website](https://academind.com)
 
